@@ -1,0 +1,4 @@
+arvato_data/
+arvato_data/**
+env/
+.ipynb_checkpoints/
